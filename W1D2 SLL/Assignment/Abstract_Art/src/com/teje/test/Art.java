@@ -1,5 +1,5 @@
 package com.teje.test;
-
+//abstract class
 public abstract class Art {
     private String title;
     private String author;
